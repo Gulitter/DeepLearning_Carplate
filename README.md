@@ -1,4 +1,5 @@
-<img width="240" height="158" alt="image" src="https://github.com/user-attachments/assets/53722b15-e05a-418d-b3c7-02844e8d0e4e" /># DeepLearning_Carplate
+# 사진에서 번호판을 인식하여 글자를 추출(속도비교)
+
 2023 3인 프로젝트(리더)
 <img width="739" height="411" alt="image" src="https://github.com/user-attachments/assets/341c4629-5ae3-43ab-809a-918f8ee8a2c1" />
 
