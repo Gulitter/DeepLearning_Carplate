@@ -1,6 +1,7 @@
 # 사진에서 번호판을 인식하여 글자를 추출(속도비교)
 
 2023 3인 프로젝트(리더)
+
 <img width="739" height="411" alt="image" src="https://github.com/user-attachments/assets/341c4629-5ae3-43ab-809a-918f8ee8a2c1" />
 
 # 목적
